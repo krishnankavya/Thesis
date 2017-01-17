@@ -20,3 +20,6 @@ I performed solver verification using lid-driven cavity flow, impulsively starte
 We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Tesla K20 GPU used for this research.
 We also thank the Barba Group for developing, maintaining, and distributing their cuIBM code. 
 Thank you to my committee, everyone in the Niemeyer research group, and the NNMREC lab.
+
+### License
+This work is licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
